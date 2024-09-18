@@ -1,0 +1,8 @@
+### Testar a raiz da aplicação
+GET http://localhost:5000
+
+### Listar Produtos
+GET http://localhost:5000/produto/listar
+
+### Cadastrar Produto
+POST http://localhost:5000/produto/cadastrar/agua
