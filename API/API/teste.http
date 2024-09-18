@@ -6,3 +6,4 @@ GET http://localhost:5000/produto/listar
 
 ### Cadastrar Produto
 POST http://localhost:5000/produto/cadastrar/agua
+Content-Type: application/json
